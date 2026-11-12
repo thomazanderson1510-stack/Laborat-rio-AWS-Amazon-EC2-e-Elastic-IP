@@ -1,6 +1,6 @@
 # ☁️ Laboratório AWS — Amazon EC2 e Elastic IP
 
-## 📌 Sobre o projeto
+## 📌 Sobre o projeto.
 
 Realizei a criação de uma instância Amazon EC2 na AWS para explorar conceitos de infraestrutura em nuvem e redes.
 
